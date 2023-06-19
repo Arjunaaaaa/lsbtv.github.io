@@ -87,12 +87,13 @@ display: flex;
       <button class="btn2" onclick="rcti2 ()">RCTI
        <button class="btn2" onclick="hd2 ()">CH INGGRIS HD
        <button class="btn2" onclick="hd6 ()">CH SPAIN HD
-      <button class="btn2" onclick="kzb71 ()">CHANNEL HD
-      <button class="btn2" onclick="vebotv1 ()">CHANNEL HD²
+        <button class="btn2" onclick="rbtv1 ()">CHANNEL HD
+      <button class="btn2" onclick="kzb71 ()">CHANNEL HD²
+      <button class="btn2" onclick="vebotv1 ()">CHANNEL HD³
   <button class="btn2" onclick="go2 ()"> CH MALAYSIA HD
    <button class="btn2" onclick="go3 ()"> CH ISRAEL HD
-      <button class="btn2" onclick="thapcamtv1 ()">CHANNEL HD³
-      <button class="btn2" onclick="livesport1 ()">SCORE808
+      <button class="btn2" onclick="thapcamtv1 ()">CHANNEL HD⁴
+      <button class="btn2" onclick="livesport1 ()">SCORE808 SD
       <button class="btn2" onclick="refreshPage()">REFRESH
       </button>
 </center>
@@ -208,7 +209,10 @@ function livesport3() {
             frame.src = "go:livesport3";
         }
         
-        
+     function rbtv1() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:rbtv1";
+        }   
         
       function go2() {
             var frame = document.getElementById("vidio");
