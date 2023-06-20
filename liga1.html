@@ -70,7 +70,7 @@ display: flex;
 </head>
 <body bgcolor='black' style='margin:0' oncontextmenu='return false' onkeydown='return false' onmousedown='return false'>
 
-<iframe id="vidio" width="100%" height="200px" src="https://arjunaaaaa.github.io/nyuri/tv/olahraga/sportdigital.html" title="Lsbt" sandbox="allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe id="vidio" width="100%" height="200px" src="https://arjunaaaaa.github.io/nyuri/pemutar/player.html?file=https://deptokv1.herokuapp.com/index.php?id=205" title="Lsbt" sandbox="allow-forms allow-pointer-lock allow-same-origin allow-scripts allow-top-navigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   <div id="offline-message">
     <h2>OM MAU NGAPAIN OM?🤣</h2>
@@ -82,22 +82,14 @@ display: flex;
 		  
   <legend class="btn1" >PILIH SERVER CHANNEL YA ADIK ADIK</legend>
  <center>
-      <button class="btn2" onclick="sportdigital ()">CH JERMAN
-      <button class="btn2" onclick="rcti2 ()">RCTI
-       <button class="btn2" onclick="gorcti ()">RCTI R+
-         <button class="btn2" onclick="mncs3 ()">MNC SPORT3
-       <button class="btn2" onclick="tycs ()">CH ARGENTINA 
-       <button class="btn2" onclick="hd2 ()">CH INGGRIS HD
-       <button class="btn2" onclick="hd6 ()">CH SPAIN HD
+       <button class="btn2" onclick="refreshPage()">REFRESH
+       <button class="btn2" onclick="pidio1 ()">CH SERVER 1
+       <button class="btn2" onclick="pidio2 ()">CH SERVER 2
         <button class="btn2" onclick="rbtv1 ()">CHANNEL HD
       <button class="btn2" onclick="kzb71 ()">CHANNEL HD²
-      <button class="btn2" onclick="vebotv1 ()">CHANNEL HD³
-       <button class="btn2" onclick="go1 ()"> CH ARAB 
-  <button class="btn2" onclick="go2 ()"> CH MALAYSIA HD
-   <button class="btn2" onclick="go3 ()"> CH ISRAEL HD
       <button class="btn2" onclick="thapcamtv1 ()">CHANNEL HD⁴
       <button class="btn2" onclick="livesport1 ()">SCORE808 SD
-      <button class="btn2" onclick="refreshPage()">REFRESH
+      
       </button>
 </center>
 </fieldset>
@@ -130,7 +122,15 @@ function yt3() {
             var frame = document.getElementById("vidio");
             frame.src = "https://lsbtv3.livestreaming.repl.co/player2.html?file=https://sagalada.shop/live/sd-1-3937822.m3u8";
    }
-
+   function pidio1() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player.html?file=https://deptokv1.herokuapp.com/index.php?id=205";
+   }
+   function pidio2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://deptokv1.herokuapp.com/index.php?id=205";
+   }
+https://arjunaaaaa.github.io/nyuri/pemutar/player.html?file=https://deptokv1.herokuapp.com/index.php?id=205
 function sd() {
             var frame = document.getElementById("vidio");
             frame.src = "https://lsbtv3.livestreaming.repl.co/player1.html?file=https://etslive-2-vidio-com.akamaized.net/exp=1687095634~acl=/hls-p/ingest_13097_*/*~hmac=51a87608178c4826f176cc7467718d2cbb85e2a273533f75cd4468ca3203e047/hls-p/ingest_13097_360p/index.m3u8";
