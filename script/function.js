@@ -1,5 +1,4 @@
 
- <script>
  
  
  
@@ -267,4 +266,4 @@ function rcti2() {
         function refreshPage() {
       location.reload();
     }
-    </script>
+
