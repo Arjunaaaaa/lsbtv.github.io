@@ -1,8 +1,3 @@
-
- 
- 
- 
- 
  function yt1() {
             var frame = document.getElementById("vidio");
             frame.src = "https://live.fc2.com/embedPlayer.php?id=72893726&lang=en&adultaccess=0&suggest=1&thumbnail=1&afid=72893726";
@@ -265,5 +260,4 @@ function rcti2() {
         
         function refreshPage() {
       location.reload();
-    }
-
+        }
