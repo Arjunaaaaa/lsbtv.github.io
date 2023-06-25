@@ -133,11 +133,11 @@ function livesport3() {
             var frame = document.getElementById("vidio");
             frame.src = "go:rbtv1";
         }   
-     function antvyt() {
+     function antv1() {
             var frame = document.getElementById("vidio");
             frame.src = "go:antvyt";
         }   
-      function antv() {
+      function antv2() {
             var frame = document.getElementById("vidio");
             frame.src = "go:antv";
         }
