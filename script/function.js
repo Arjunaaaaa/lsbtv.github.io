@@ -68,7 +68,7 @@ function p2kzb4() {
 
 function p2thapcam1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/thapcamtv/dmjAPfK.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/thapcamtv/G0GknSA.m3u8";
 }
 
 function p2thapcam2() {
