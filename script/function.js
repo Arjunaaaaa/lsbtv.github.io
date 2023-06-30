@@ -48,14 +48,43 @@ function hd6() {
             frame.src = "https://v3.sportsonline.sx/channels/hd/hd6.php";
    }
    
-   function player1() {
+function p2kzb1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player.html?file=https://sagalada.shop/live/sd-1-3938232.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://sagalada.shop/live/sd-1-3932921.m3u8";
         }
-function player2() {
+function p2kzb2() {
             var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://daddylive.herokuapp.com/index.m3u8?id=premium125&apiv2=ddy1";
         }
+
+function p2kzb3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://sagalada.shop/live/sd-1-3932921.m3u8";
+        }
+function p2kzb4() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://daddylive.herokuapp.com/index.m3u8?id=premium125&apiv2=ddy1";
+}
+
+function p2thapcam1() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/thapcamtv/dmjAPfK.m3u8";
+}
+
+function p2thapcam2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/thapcamtv/dmjAPfK.m3u8";
+}
+function p2thapcam3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/thapcamtv/dmjAPfK.m3u8";
+}
+
+function p2thapcam4() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/thapcamtv/dmjAPfK.m3u8";
+}
+
         
         function vidiochlow() {
             var frame = document.getElementById("vidio");
