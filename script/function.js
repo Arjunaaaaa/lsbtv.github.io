@@ -201,7 +201,7 @@ function c1() {
  
 function mncsp1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://pisionplus.livebola.repl.co/mncsport.html";
+            frame.src = "https://pisionplus.livebola.repl.co/mncsport.html";
         }
   function sportdigital() {
             var frame = document.getElementById("vidio");
@@ -219,55 +219,55 @@ function mncsp1() {
  
  function mncsp2() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://mncsport2.livestreaming.repl.co";
+            frame.src = "https://mncsport2.livestreaming.repl.co";
         }
    function mncsp3() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://mncsport3.livestreaming.repl.co";
+            frame.src = "https://mncsport3.livestreaming.repl.co";
    }
  
 function spotv2() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://spotv2.livestreaming.repl.co";
+            frame.src = "https://spotv2.livestreaming.repl.co";
         }
  
  function spotv1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://pisionplus.livebola.repl.co/spotv.html";
+            frame.src = "https://pisionplus.livebola.repl.co/spotv.html";
         }
  
  function spotvon() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://spotvon--bolaboka.repl.co";
+            frame.src = "https://spotvon--bolaboka.repl.co";
         }
  function kzb7() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://player.huminbird.cn/detail.html?v=109&mid=3924185&type=1&pid=4&isTips=1&isLogin=0&sbtcolor=27c5c3&pfont=40px";
+            frame.src = "https://player.huminbird.cn/detail.html?v=109&mid=3924185&type=1&pid=4&isTips=1&isLogin=0&sbtcolor=27c5c3&pfont=40px";
         }
  function polsatprem1() {
             var frame = document.getElementById("vidio");
-            iframe.src = "https://corsproxy.io/?https://polsatprem1.bolaboka.repl.co/";
+            iframe.src = "https://polsatprem1.bolaboka.repl.co/";
         }
  function ten2() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://player4.bolaboka.repl.co/index.html?file=https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8";
+            frame.src = "https://player4.bolaboka.repl.co/index.html?file=https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8";
         }
         function ten3() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://player4.bolaboka.repl.co/index.html?file=https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8";
+            frame.src = "https://player4.bolaboka.repl.co/index.html?file=https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8";
         }
         function ten4() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://player4.bolaboka.repl.co/index.html?file=https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8";
+            frame.src = "https://player4.bolaboka.repl.co/index.html?file=https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8";
         }
         
 function soccerch() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://pisionplus.livebola.repl.co/soccerch.html";
+            frame.src = "https://pisionplus.livebola.repl.co/soccerch.html";
         }
      function mewatch() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://mulung--bolaboka.repl.co/";
+            frame.src = "https://mulung--bolaboka.repl.co/";
         }   
         function inews() {
             var frame = document.getElementById("vidio");
@@ -279,7 +279,7 @@ function soccerch() {
         }   
 function rcti2() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://corsproxy.io/?https://rcti.livestreaming.repl.co";
+            frame.src = "https://rcti.livestreaming.repl.co";
         }   
         
         function mnctv() {
