@@ -1,7 +1,7 @@
 
 function nsch5() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1ch5.html";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1ch6.html";
 }
 
 
