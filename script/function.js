@@ -50,7 +50,7 @@ function hd6() {
    
 function p2kzb1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://sagalada.shop/live/sd-1-3932921.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://sagalada.shop/live/sd-1-3875356.m3u8";
         }
 function p2kzb2() {
             var frame = document.getElementById("vidio");
