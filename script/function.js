@@ -95,9 +95,19 @@ function p2thapcam4() {
 
 function p2soco1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/991139.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8";
 }
 
+function p2soco2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/991135.m3u8";
+}
+
+
+function p2soco3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8";
+}
         
         function vidiochlow() {
             var frame = document.getElementById("vidio");
