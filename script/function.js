@@ -138,9 +138,9 @@ function kzb73() {
             var frame = document.getElementById("vidio");
             frame.src = "go:kzb73";
         }
-function kzb74() {
+function chakia2() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:kzb74";
+            frame.src = "go:liga1-c1";
         }
         
 function vebotv1() {
