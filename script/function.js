@@ -1,4 +1,12 @@
- function yt1() {
+
+function nsch5() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1ch5.html";
+}
+
+
+
+function yt1() {
             var frame = document.getElementById("vidio");
             frame.src = "https://live.fc2.com/embedPlayer.php?id=72893726&lang=en&adultaccess=0&suggest=1&thumbnail=1&afid=72893726";
         }
