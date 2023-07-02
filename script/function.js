@@ -130,19 +130,19 @@ function p2soco4() {
 }    
         function vidiochlow() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:vidiochlow";
+            frame.src = "go:vidiolow";
         }
     function vidiochsd() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:vidiochsd";
+            frame.src = "go:vidiosd";
         }    
 function vidiochhd() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:vidiochhd";
+            frame.src = "go:vidiohd";
         }
 function vidiofhd() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:vidiofhd";
+            frame.src = "go:vidiofhd1";
         }
         
    function kzb71() {
