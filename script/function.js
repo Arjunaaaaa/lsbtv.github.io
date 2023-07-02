@@ -95,20 +95,28 @@ function p2thapcam4() {
 
 function p2soco1() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/379975.m3u8";
 }
 
 function p2soco2() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/991135.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/991117.m3u8";
 }
 
 
 function p2soco3() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8";
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8";
 }
-        
+
+function p2soco4() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/991135.m3u8";
+}
+    function p2soco5() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/player2.html?file=https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8";
+}    
         function vidiochlow() {
             var frame = document.getElementById("vidio");
             frame.src = "go:vidiochlow";
@@ -138,11 +146,25 @@ function kzb73() {
             var frame = document.getElementById("vidio");
             frame.src = "go:kzb73";
         }
-function chakia2() {
+function cak1() {
             var frame = document.getElementById("vidio");
-            frame.src = "go:liga1-c1";
+            frame.src = "go:cak1";
         }
-        
+
+function cak2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:cak2";
+}
+
+     function cak3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:cak3";
+        }   
+function cak4() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:cak4";
+        }
+
 function vebotv1() {
             var frame = document.getElementById("vidio");
             frame.src = "go:vebotv1";
@@ -185,6 +207,21 @@ function livesport3() {
             var frame = document.getElementById("vidio");
             frame.src = "go:rbtv1";
         }   
+        
+     function rbtv2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:rbtv2";
+        }   
+     
+        
+     function rbtv3() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:rbtv3";
+        }   
+     
+
+
+
      function antv1() {
             var frame = document.getElementById("vidio");
             frame.src = "go:antvyt";
