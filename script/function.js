@@ -1,10 +1,21 @@
 
 function nsch5() {
             var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1ch5.html";
+}
+function nsch6() {
+            var frame = document.getElementById("vidio");
             frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1ch6.html";
 }
+function nschfree() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1chfree.html";
+}
 
-
+function nsch205() {
+            var frame = document.getElementById("vidio");
+            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1ch205.html";
+}
 
 function yt1() {
             var frame = document.getElementById("vidio");
