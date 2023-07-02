@@ -1,20 +1,22 @@
 
 function nsch5() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1ch5.html";
+            frame.src = "go:nsch5";
 }
+
+
 function nsch6() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1ch6.html";
+            frame.src = "go:nsch6";
 }
 function nschfree() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1chfree.html";
+            frame.src = "go:nschfree";
 }
 
 function nsch205() {
             var frame = document.getElementById("vidio");
-            frame.src = "https://arjunaaaaa.github.io/nyuri/pemutar/nsplayer/liga1ch205.html";
+            frame.src = "go:nsch205";
 }
 
 function yt1() {
@@ -144,7 +146,27 @@ function vidiofhd() {
             var frame = document.getElementById("vidio");
             frame.src = "go:vidiofhd1";
         }
+
+
+function vidiochlow2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vidiochlow";
+        }
+    function vidiochsd2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vidiochsd";
+        }    
+function vidiochhd2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vidiochhd";
+        }
+function vidiofhd2() {
+            var frame = document.getElementById("vidio");
+            frame.src = "go:vidiofhd";
+        }
         
+
+
    function kzb71() {
             var frame = document.getElementById("vidio");
             frame.src = "go:kzb71";
